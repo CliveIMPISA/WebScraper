@@ -66,7 +66,6 @@ end
 
 
     def to_yaml(data)
-
       File.open("test.yml", "w") do  |file|  
         file.puts data.to_yaml
       end

@@ -1,23 +1,28 @@
 
 require 'nokogiri'
 require 'open-uri'
-require 'date'
 
-  class CodecademyBadge
+  class BasketballReference
 
-    SOURCE = "http://www.basketball-reference.com"
+    WEBSITE = "http://www.basketball-reference.com/contracts"
 
-    def get_badges(team)
-      doc = get_html(team)
-      titles = doc.xpath("//div[@id='div_payroll']//tr[@class='']")
-      putit=titles.map { |t| t.text }
-      putit.each { |b| puts b}
-
+    def get_team(team)
+      doc = get_page(team)
+      doc.xpath("//div[@id='div_payroll']//tr[@class='']")
+      
     end
 
-    def get_html(team)
-      url = "#{SOURCE}/contracts/#{team}.html"
+    def get_page(team)
+      url = "#{WEBSITE}/#{team}.html"
       Nokogiri::HTML(open(url))
+    end
+
+    def just_text(data)
+      data.map { |t| t.text }
+    end
+
+    def display(data)
+      data.each { |x| puts x }
     end
 
   end

@@ -1,11 +1,12 @@
 
-fail ArgumentError, "Usage: ruby contracts.rb [teamname]\nPlease check the readme file for team names abbreviation\n" if ARGV.count == 0
+fail ArgumentError, "Usage: ruby contracts.rb [teamname]\n
+Please check the readme file for team names abbreviation\n" if ARGV.count == 0
+
 team_name = ARGV[0]
 require_relative 'salaryscrape'
 
-code=BasketballReference.new()
+code = BasketballReference.new
 
-
-#code.get_team(team_name)
+# code.get_team(team_name)
 
 code.to_yaml(code.to_array_of_hashes(team_name))

@@ -5,8 +5,7 @@ require_relative 'salaryscrape'
 
 code=BasketballReference.new()
 
-contracts_data = code.get_team(team_name)
 
-contracts_text = code.just_text(contracts_data)
+#code.get_team(team_name)
 
-code.display(contracts_text)
+code.to_yaml(code.to_array_of_hashes(team_name))

@@ -5,16 +5,18 @@ require 'date'
 
   class CodecademyBadge
 
-    def get_badges()
-      doc = get_html()
+    SOURCE = "http://www.basketball-reference.com"
+
+    def get_badges(team)
+      doc = get_html(team)
       titles = doc.xpath("//div[@id='div_payroll']//tr[@class='']")
       putit=titles.map { |t| t.text }
       putit.each { |b| puts b}
 
     end
 
-    def get_html()
-      url = "http://www.basketball-reference.com/contracts/MIA.html"
+    def get_html(team)
+      url = "#{SOURCE}/contracts/#{team}.html"
       Nokogiri::HTML(open(url))
     end
 

@@ -4,4 +4,4 @@
 require_relative 'salaryscrape'
 
 code=CodecademyBadge.new()
-code.get_badges()
+code.get_badges("MIA")

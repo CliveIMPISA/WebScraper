@@ -1,7 +1,7 @@
 WebScraper
 ===============
 
-WebScraper grabs the salary and contract information of National Basketball Association(NBA) players from [basketball-reference.com](www.basketball-reference.com). This information is then written to yaml file. Included in this project is a sample of a generated yaml file of one of the teams salary information
+WebScraper grabs the salary and contract information of National Basketball Association(NBA) players from [basketball-reference.com](http://www.basketball-reference.com). This information is then written to yaml file. Included in this project is a sample of a generated yaml file of one of the teams salary information
 ## About
 
 The information stored in the yaml file contains a list of the players and their contractual arrangement on any particular NBA team. How is that information useful? Every year, the NBA sets a salary cap- which is the maximum amount of money a team can pay all its players combined without facing any penalties. Knowing contractual agreements can give teams an idea of potential cost cutting measures or cap space available for signing additional players. If you are a just a fan and only want to know what you favorite player is earning, this application can immediately generate this information for you. For more information on the nba salary cap visit [NBA Salary cap](http://en.wikipedia.org/wiki/NBA_salary_cap)

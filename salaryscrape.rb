@@ -33,11 +33,6 @@ class BasketballReference
     players_data_array = []
     head_array = []
 
-<<<<<<< HEAD
-    def to_yaml(data)
-      File.open("test.yml", "w") do  |file|  
-        file.puts data.to_yaml
-=======
     players_data = get_team(team)
     head = get_column_heads(team)
 
@@ -54,7 +49,7 @@ class BasketballReference
       head_array.each do |x|
         piece_of_data[x] = players_data_array.first
         players_data_array.shift
->>>>>>> 91d0bd312bb193b81a8ed63aecf872f825c2b61d
+
       end
       data << piece_of_data
     end

@@ -1,101 +1,77 @@
 ---
-- Player: Chris Bosh
-  2014-15: "$20,644,400"
-  2015-16: "$22,192,730"
-  2016-17: "$23,741,060"
-  2017-18: "$25,289,390"
-  2018-19: "$26,837,720"
-  Signed Using: Bird Rights
-  Guaranteed: "$118,705,300"
-- Player: Dwyane Wade
-  2014-15: "$15,000,000"
-  2015-16: "$16,125,000"
+- Player: Eric Gordon
+  2014-15: "$14,898,938"
+  2015-16: "$15,514,031"
   2016-17: ''
   2017-18: ''
   2018-19: ''
   Signed Using: Bird Rights
-  Guaranteed: ''
-- Player: Luol Deng
-  2014-15: "$9,714,461"
-  2015-16: "$10,151,612"
-  2016-17: ''
+  Guaranteed: "$14,898,938"
+- Player: Tyreke Evans
+  2014-15: "$10,763,500"
+  2015-16: "$11,227,000"
+  2016-17: "$11,690,500"
   2017-18: ''
   2018-19: ''
-  Signed Using: Cap Space
-  Guaranteed: "$9,714,461"
-- Player: Josh McRoberts
-  2014-15: "$5,543,725"
-  2015-16: "$5,782,450"
-  2016-17: "$6,021,175"
+  Signed Using: Bird Rights
+  Guaranteed: "$33,681,000"
+- Player: Jrue Holiday
+  2014-15: "$9,904,495"
+  2015-16: "$10,595,507"
+  2016-17: "$11,286,518"
   2017-18: ''
   2018-19: ''
-  Signed Using: MLE
-  Guaranteed: "$16,631,175"
-- Player: Chris Andersen
-  2014-15: "$5,375,000"
-  2015-16: "$5,000,000"
-  2016-17: ''
-  2017-18: ''
-  2018-19: ''
-  Signed Using: Cap Space
-  Guaranteed: "$10,375,000"
-- Player: Mario Chalmers
-  2014-15: "$4,000,000"
-  2015-16: "$4,300,000"
+  Signed Using: Bird Rights
+  Guaranteed: "$31,786,520"
+- Player: Ryan Anderson
+  2014-15: "$8,491,500"
+  2015-16: "$8,500,000"
   2016-17: ''
   2017-18: ''
   2018-19: ''
   Signed Using: Bird Rights
-  Guaranteed: "$8,300,000"
-- Player: Udonis Haslem
-  2014-15: "$2,732,000"
-  2015-16: "$2,854,940"
-  2016-17: ''
-  2017-18: ''
-  2018-19: ''
-  Signed Using: MLE
-  Guaranteed: "$5,586,940"
-- Player: Danny Granger
-  2014-15: "$2,077,000"
-  2015-16: "$2,170,465"
-  2016-17: ''
-  2017-18: ''
-  2018-19: ''
-  Signed Using: BAE
-  Guaranteed: "$2,077,000"
-- Player: Norris Cole
-  2014-15: "$2,038,206"
+  Guaranteed: "$16,991,500"
+- Player: Omer Asik
+  2014-15: "$8,374,646"
   2015-16: ''
   2016-17: ''
   2017-18: ''
   2018-19: ''
+  Signed Using: Cap Space
+  Guaranteed: "$8,374,646"
+- Player: Anthony Davis
+  2014-15: "$5,607,240"
+  2015-16: "$7,070,730"
+  2016-17: ''
+  2017-18: ''
+  2018-19: ''
   Signed Using: 1st Round Pick
-  Guaranteed: "$2,038,206"
-- Player: Shannon Brown
-  2014-15: "$1,310,286"
+  Guaranteed: "$5,607,240"
+- Player: Austin Rivers
+  2014-15: "$2,439,840"
+  2015-16: "$3,110,796"
+  2016-17: ''
+  2017-18: ''
+  2018-19: ''
+  Signed Using: 1st Round Pick
+  Guaranteed: "$2,439,840"
+- Player: John Salmons
+  2014-15: "$2,000,000"
+  2015-16: ''
+  2016-17: ''
+  2017-18: ''
+  2018-19: ''
+  Signed Using: Room Exception
+  Guaranteed: "$2,000,000"
+- Player: Alexis Ajinca
+  2014-15: "$981,084"
   2015-16: ''
   2016-17: ''
   2017-18: ''
   2018-19: ''
   Signed Using: Minimum Salary
-  Guaranteed: ''
-- Player: Shabazz Napier
-  2014-15: "$1,238,640"
-  2015-16: "$1,294,440"
-  2016-17: "$1,350,120"
-  2017-18: "$2,361,360"
-  2018-19: ''
-  Signed Using: 1st Round Pick
-  Guaranteed: "$2,533,080"
-- Player: Shawne Williams
-  2014-15: "$1,227,985"
-  2015-16: "$1,356,146"
-  2016-17: ''
-  2017-18: ''
-  2018-19: ''
-  Signed Using: Minimum Salary
-  Guaranteed: "$1,227,985"
-- Player: Reggie Williams
+  Guaranteed: "$981,084"
+- Player: Luke Babbitt
   2014-15: "$981,084"
   2015-16: ''
   2016-17: ''
@@ -103,15 +79,23 @@
   2018-19: ''
   Signed Using: Minimum Salary
   Guaranteed: ''
-- Player: Chris Johnson
+- Player: Jimmer Fredette
   2014-15: "$948,163"
   2015-16: ''
   2016-17: ''
   2017-18: ''
   2018-19: ''
   Signed Using: Minimum Salary
+  Guaranteed: "$948,163"
+- Player: Darius Miller
+  2014-15: "$915,243"
+  2015-16: "$981,348"
+  2016-17: ''
+  2017-18: ''
+  2018-19: ''
+  Signed Using: Minimum Salary
   Guaranteed: ''
-- Player: Justin Hamilton
+- Player: Dionte Christmas
   2014-15: "$816,482"
   2015-16: ''
   2016-17: ''
@@ -119,11 +103,51 @@
   2018-19: ''
   Signed Using: Minimum Salary
   Guaranteed: ''
-- Player: James Ennis
-  2014-15: "$507,336"
-  2015-16: "$845,059"
-  2016-17: "$980,431"
+- Player: Kevin Jones
+  2014-15: "$816,482"
+  2015-16: ''
+  2016-17: ''
   2017-18: ''
   2018-19: ''
-  Signed Using: Cap Space
-  Guaranteed: "$1,352,395"
+  Signed Using: Minimum Salary
+  Guaranteed: ''
+- Player: D.J. Stephens
+  2014-15: "$816,482"
+  2015-16: ''
+  2016-17: ''
+  2017-18: ''
+  2018-19: ''
+  Signed Using: Minimum Salary
+  Guaranteed: ''
+- Player: Jeff Withey
+  2014-15: "$816,482"
+  2015-16: ''
+  2016-17: ''
+  2017-18: ''
+  2018-19: ''
+  Signed Using: Minimum Salary
+  Guaranteed: ''
+- Player: Vernon Macklin
+  2014-15: "$816,482"
+  2015-16: ''
+  2016-17: ''
+  2017-18: ''
+  2018-19: ''
+  Signed Using: Minimum Salary
+  Guaranteed: ''
+- Player: Russ Smith
+  2014-15: "$816,482"
+  2015-16: "$816,482"
+  2016-17: "$816,482"
+  2017-18: ''
+  2018-19: ''
+  Signed Using: Minimum Salary
+  Guaranteed: "$507,336"
+- Player: Patric Young
+  2014-15: "$507,336"
+  2015-16: "$845,059"
+  2016-17: ''
+  2017-18: ''
+  2018-19: ''
+  Signed Using: Minimum Salary
+  Guaranteed: ''

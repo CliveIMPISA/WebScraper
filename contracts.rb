@@ -10,4 +10,4 @@ code = BasketballReference.new
 
 # code.get_team(team_name)
 
-code.to_yaml(team_name)
+puts code.to_yaml(team_name)

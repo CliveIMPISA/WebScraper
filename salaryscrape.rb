@@ -62,9 +62,7 @@ module SalaryScraper
 
     def to_yaml(team_name)
       data = to_array_of_hashes(team_name)
-      File.open('contracts_data.yml', 'w') do  |file|
-        file.puts data.to_yaml
-      end
+      data.to_yaml
     end
   end
 end
